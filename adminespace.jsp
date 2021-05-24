@@ -37,9 +37,7 @@
       <a href="/" ><button type="button" class="btn btn-primary active">Consulter chercheur</button></a>
     </div>
 
-    <div class="col-sm-6"style="text-align: center;">
-      <a href="/" ><button type="button" class="btn btn-primary active">Consulter demande</button></a>
-    </div>
+    
   
   </div>
 </div>
